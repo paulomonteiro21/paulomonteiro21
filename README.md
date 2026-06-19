@@ -63,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur liber
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=paulomonteiro21&show_icons=true&theme=midnight-purple&title_color=800000&icon_color=a5240b&border_color=000000&locale=pt-br&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=paulomonteiro21&show_icons=true&theme=midnight-purple&title_color=800000&icon_color=a5240b&border_color=000000&locale=pt-br" 
   />
 
 <img 
