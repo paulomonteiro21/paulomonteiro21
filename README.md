@@ -63,14 +63,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur liber
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=paulomonteiro21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=paulomonteiro21&show_icons=true&theme=midnight-purple&title_color=800000&icon_color=a5240b" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomonteiro21&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomonteiro21&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=800000&text_color=a5240b" 
   />
 
 </p>
