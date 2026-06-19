@@ -70,6 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur liber
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomonteiro21&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=800000&text_color=a5240b&border_color=000000" 
   />
 
