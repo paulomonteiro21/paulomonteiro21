@@ -2,7 +2,8 @@
 
 **`Desenvolvedor`**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur libero et urna aliquam faucibus. Nunc consectetur mi nec arcu lacinia pretium. Integer vestibulum eros maximus, scelerisque urna ac, molestie magna. Mauris turpis metus, facilisis sit amet consequat eget, hendrerit fermentum dolor. Praesent bibendum fermentum dui, ut interdum magna gravida sed. Duis nibh felis, mattis vitae pharetra vitae, egestas ac ex. Donec non lobortis augue. Morbi facilisis varius dignissim. Donec consectetur sit amet sapien quis condimentum. Phasellus arcu enim, accumsan vel est ut, congue iaculis justo. Donec vulputate tempor mauris, at finibus risus efficitur sit amet. Nunc eu malesuada enim, eget tristique ipsum. Praesent vitae nunc quis mauris vehicula luctus.
+Estudante de Ciência da Computação na UFFS - Campus Chapecó.<br>
+Aprendendo e melhorando a cada dia.
 
 <p align="left">
 
@@ -70,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur liber
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomonteiro21&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=800000&text_color=a5240b&border_color=000000" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomonteiro21&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=800000&text_color=a5240b&border_color=000000&icon_color=a5240b" 
   />
 
 </p>
